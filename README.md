@@ -16,8 +16,7 @@ Below you will find some information on how to perform common tasks.<br>
   - [GitHub Pages](#github-pages)
 
 ## Demo of the final application
-
-
+ ![alt text](https://github.com/kamolchanokTa/todo-react-redux/blob/master/demoTodoApp.gif)
 ## Folder Structure
 
 After creation, your project should look like this:
