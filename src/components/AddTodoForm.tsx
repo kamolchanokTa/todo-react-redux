@@ -25,7 +25,7 @@ export default class AddTodoForm extends React.Component<IProps, IState> {
     return (
       <form onSubmit={_handleSubmit}>
         <input type="text" value={value} onChange={this.handleOnClick} />
-        <button type="submit">Add todo !</button>
+        <button type="submit">Add todo </button>
       </form>
     )
   }
