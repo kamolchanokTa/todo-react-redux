@@ -3,15 +3,13 @@ The simple to do application is developed by using React & Redux in TypeScript
 Below you will find some information on how to perform common tasks.<br>
 
 ## Table of Contents
-
-- [Updating to New Releases](#updating-to-new-releases)
 - [Demo of the final application](#demo-of-the-final-application)
 - [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
-- [Deployment](#deployment))
+- [Deployment](#deployment)
   - [Heroku](#heroku)
   - [GitHub Pages](#github-pages)
 
