@@ -8,6 +8,6 @@ script:
   provider: heroku
   api_key:
     secure: "ORsWjhm+SSMnT5VCPEr2sz+J0PtZ+s9QAmvwt8O4sfBJt5fwLTQKyX/IS/XlrpksTCaGekaYwlRcTOMOVWk4i3I2gyShkLFKHdkJ5PbYBLbkIpVHwl60c6oz+vTN/3O6A7KN43l5odtliMvD3QFQzQzxfI4qVBGjCLier6GE1omQCsSMD9cPs6+2xqPVN2iODCTC7JbMkEnj3iMv0T4+hoyw4youmMEvalOGXVY7VrSpkWZVXme8F6Pokz31dg8UKO428oIPY9MnycELU1ymmKO9lHx3hhy1zAFpUUsLWdntt1XBo8vuxcfUKeA6bJDwu/RjSVcxdLYYwzHMz0Dqa02W75UAh8iS9e7Ii9H2lf3KCFNtCWaSUYw/ivs/H+MAid/q5gIYc1UHOJwObXlTvIxgshugGtJ4m1qk0YuYA64ZMuNt+w5xqLeJRMH9KEzgs85rkV7fc8bFRexhXS1r7SRIUJU7skmSpoHm+IEWM5OTUA40JnjGUrGJkzBN8DkiD1zxlxNwpuMf5f/4wuj3ylgFLn+YlXBB9oypgB9d20eVXgEZsd7aZad/IrwQPRFP4FX2Q+rCELdyLHJZckCrwLmqerI5Zm+gt46mDAoQcoOisoQg12uFYqsPqHcyV1gnqPoKs/xzSd8rMc2ovTjotCl0nF/Jzd1NjgtZa5db/gw="
-  app: o-do-app-react-redux
+  app: to-do-app-react-redux
   on:
     repo: kamolchanokTa/todo-react-redux
