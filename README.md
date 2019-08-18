@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/kamolchanokTa/todo-react-redux.svg?branch=master)](https://travis-ci.com/kamolchanokTa/todo-react-redux)
+
 # Basic Overview ToDo application - [Live Demo](https://to-do-app-react-redux.herokuapp.com/)
 The simple to do application is developed by using React & Redux in TypeScript
 Below you will find some information on how to perform common tasks.<br>
